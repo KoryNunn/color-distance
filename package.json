@@ -3,12 +3,19 @@
   "version": "0.1.0",
   "description": "gets the distance between two colors",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/KoryNunn/color-distance.git"
+  },
+  "bugs": {
+    "url": "http://github.com/KoryNunn/color-distance/issues"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ./test/test.js"
   },
   "devDependancies": {
     "tape": "x.x.x"
   },
-  "author": "Kory Nunn",
+  "author": "Kory Nunn <knunn187@gmail.com>",
   "license": "BSD"
 }
