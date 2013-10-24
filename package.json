@@ -1,13 +1,13 @@
 {
   "name": "color-distance",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "gets the distance between two colors",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "devDependancies":{
-    "tape":"x.x.x"
+  "devDependancies": {
+    "tape": "x.x.x"
   },
   "author": "Kory Nunn",
   "license": "BSD"
