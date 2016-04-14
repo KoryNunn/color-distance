@@ -1,6 +1,6 @@
 {
   "name": "color-distance",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "gets the distance between two colors",
   "main": "index.js",
   "repository": {
