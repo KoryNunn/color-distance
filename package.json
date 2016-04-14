@@ -17,5 +17,10 @@
     "tape": "x.x.x"
   },
   "author": "Kory Nunn <knunn187@gmail.com>",
-  "license": "BSD"
+  "license": "BSD",
+  "homepage": "https://github.com/KoryNunn/color-distance#readme",
+  "directories": {
+    "test": "test"
+  },
+  "keywords": []
 }
